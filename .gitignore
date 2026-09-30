@@ -1,0 +1,6 @@
+node_modules
+.next
+judge.db
+*.log
+resume.tex
+.env
